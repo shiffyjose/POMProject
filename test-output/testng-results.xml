@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7581" started-at="2016-05-06T03:12:28Z" finished-at="2016-05-06T03:12:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7581" started-at="2016-05-06T03:12:28Z" finished-at="2016-05-06T03:12:36Z">
+      <class name="com.adactin.Testcases.TestCase111">
+        <test-method status="PASS" signature="PastDateEntry(java.util.Hashtable)[pri:0, instance:com.adactin.Testcases.TestCase111@658c5a19]" name="PastDateEntry" duration-ms="7550" started-at="2016-05-06T13:12:28Z" data-provider="getSearchData" finished-at="2016-05-06T13:12:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{CheckInDate="15/05/2016", Location=Sydney, ChildrenperRoom=2 - Two, CheckOutDate="18/05/2016", RoomType=Double, AdultsperRoom=4 - Four, Numberroom=1-One, Hotels=Hotel Creek}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PastDateEntry -->
+      </class> <!-- com.adactin.Testcases.TestCase111 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
